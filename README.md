@@ -1,4 +1,4 @@
 # Java-exersise
 
 
-complete core java to understan all concepts except multithreading
+complete core java to understad all concepts except multithreading
